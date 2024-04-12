@@ -1,0 +1,12 @@
+.w-100{
+    width: auto;
+    height: 460px;
+    object-fit: cover;
+    
+}
+
+.w-100:hover{
+    cursor: pointer;
+    transition: 0.3s;
+    transform: scale(1.1);
+}
